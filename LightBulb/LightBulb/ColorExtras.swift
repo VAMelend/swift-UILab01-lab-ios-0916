@@ -18,6 +18,7 @@ extension String {
         default: assert(false, "Invalid color name: \(self)")
         }
     }
+    
 }
 
 extension UISegmentedControl {
